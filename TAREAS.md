@@ -16,13 +16,17 @@ Tabla PIEZAS: (tienda ciclismo)
 -Luces
 
 
-           (categorias) ¿habría que asignarlas por ID?
-  RECAMBIO       |     ROPA       | SEGURIDAD
+      RE                VE             SE
+  RECAMBIO       |   VESTUARIO    | SEGURIDAD
 ================================================
  Ruedas          |  Guantes       |  Casco
  Manillar        |  Maillot       |  Gafas
  Sillín          |  Zapatillas    |  Luces
  Suspensión
+
+
+
+
 
 
 
